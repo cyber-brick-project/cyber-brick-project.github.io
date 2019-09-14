@@ -1,21 +1,21 @@
 # Site/SEO settings
-email: 
+email:
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
 title: Trophy
-description: 
+description:
 url: ""
 baseurl: ""
-twitter_username: 
-default_img: 
+twitter_username:
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name:
+profile_img:
+profile:
 social:
-  github: 
+  github:
 
 # Build settings
 markdown: kramdown
@@ -34,6 +34,8 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
+
+include: ["_pages"]
 
 # Pagination
 paginate: 5
