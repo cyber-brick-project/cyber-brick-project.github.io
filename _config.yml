@@ -13,9 +13,10 @@ default_img: "https://cyber-brick-project.github.io/assets/images/austin-smart-v
 # Profile settings
 name: "Cyber Brick Project"
 profile_img: "https://cyber-brick-project.github.io/assets/logo.git/logo-square.png"
-profile:
+profile: "Project born from passion to Lego and computer science, and engineering. Focused mainly on automating Lego, but also on preparing proper documentations, covering both business cases and technical details."
 social:
   github: https://github.com/cyber-brick-project
+  user-circle: https://mwilczek-net.github.io/
 
 # Build settings
 markdown: kramdown
@@ -38,7 +39,7 @@ exclude:
 include: ["_pages"]
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page-:num"
 
 # Sass
