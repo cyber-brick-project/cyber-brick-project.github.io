@@ -4,18 +4,18 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 title: "Cyber Brick Project"
-description: ""
-url: "https://thomasvaeth.github.io"
+description: "by mwilczek.net"
+url: "https://cyber-brick-project.github.io/"
 baseurl: ""
 twitter_username:
-default_img: "https://thomasvaeth.github.io/assets/images/austin-smart-vPe0ltATD2k-unsplash.jpg"
+default_img: "https://cyber-brick-project.github.io/assets/images/austin-smart-vPe0ltATD2k-unsplash.jpg"
 
 # Profile settings
-name:
-profile_img:
+name: "Cyber Brick Project"
+profile_img: "https://cyber-brick-project.github.io/assets/logo.git/logo-square.png"
 profile:
 social:
-  github:
+  github: https://github.com/cyber-brick-project
 
 # Build settings
 markdown: kramdown

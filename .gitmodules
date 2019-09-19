@@ -1,0 +1,3 @@
+[submodule "assets/logo.git"]
+	path = assets/logo.git
+	url = https://github.com/cyber-brick-project/logo.git
