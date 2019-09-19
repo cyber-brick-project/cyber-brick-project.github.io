@@ -3,12 +3,12 @@ email:
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-title: Trophy
-description:
-url: ""
+title: "Cyber Brick Project"
+description: ""
+url: "https://thomasvaeth.github.io"
 baseurl: ""
 twitter_username:
-default_img:
+default_img: "https://thomasvaeth.github.io/assets/images/austin-smart-vPe0ltATD2k-unsplash.jpg"
 
 # Profile settings
 name:
