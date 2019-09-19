@@ -28,13 +28,24 @@ layout: default
 
       {{ content }}
 
+        <hr>
+        <p>
+          &copy; <script>
+            document.write(new Date().getFullYear())
+          </script> {{ site.title }}
+          {% if page.bgCredential %}
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            Background by &nbsp;&nbsp; {{ page.bgCredential }}
+          {% endif %}
+        </p>
+
     </div>
   </section>
 
   <section class="profile">
     <div class="profile__card">
       <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+        <figure class="contain-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
       </div>
       <div class="profile__container">
         <p>{{ site.profile }}</p>

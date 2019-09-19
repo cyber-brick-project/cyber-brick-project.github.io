@@ -15,6 +15,22 @@
 }
 
 /**
+ * Contain Background Cover
+ */
+.absolute-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  height: 100%;
+  width: 100%;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+/**
  * Color Helpers
  */
 .bg-black {
