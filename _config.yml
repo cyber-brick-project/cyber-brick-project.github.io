@@ -16,8 +16,8 @@ profile_img: "https://cyber-brick-project.github.io/assets/logo.git/logo-square.
 profile: "Project born from passion for Lego, computer science and engineering. Focused mainly on automating Lego, but also on preparing proper documentations, covering both business cases and technical details."
 social:
   github: https://github.com/cyber-brick-project
-  user-circle: https://mwilczek-net.github.io/
   book: http://cyber-brick-project.mwilczek.net/documents/
+  user-circle: https://mwilczek-net.github.io/
 
 # Build settings
 markdown: kramdown
