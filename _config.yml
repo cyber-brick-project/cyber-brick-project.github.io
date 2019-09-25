@@ -17,6 +17,7 @@ profile: "Project born from passion for Lego, computer science and engineering. 
 social:
   github: https://github.com/cyber-brick-project
   user-circle: https://mwilczek-net.github.io/
+  book: http://cyber-brick-project.mwilczek.net/documents/
 
 # Build settings
 markdown: kramdown
